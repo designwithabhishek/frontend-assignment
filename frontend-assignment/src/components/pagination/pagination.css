@@ -1,0 +1,12 @@
+.pagination-container {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+.btn:hover {
+  border-color: #4caf50;
+}
+.active {
+  background-color: #4caf50;
+  color: white;
+}
